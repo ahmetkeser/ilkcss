@@ -1,12 +1,15 @@
-h1 {    
-    color:darksalmon;
-    font-size: 18px;
+.text-red{
+    color:red;
 }
-p{
-    color: black;
-    font-size: 8px;
+.fs-small{
+    font-size: 14px;
 }
-h2 {    
-    color:rgb(230, 104, 20);
-    font-size: 18px;
+.fs-medium{
+    font-size: 20px;
+}
+.fs-large{
+    font-size: 30px;
+}
+#first-article{
+    font-size: 40px ;
 }
